@@ -4,7 +4,7 @@
 - 💻 Working at Huawei as a frontend developer since 2021 June.  
   
 
-- ⏳ Currently learning Vue.js (Composition API), Nuxt.js and Tailwind CSS.  
+- ⏳ Currently learning Nuxt.js and React.js.  
   
 
 - 🧾 Previously worked as a fullstack developer with PHP.  
