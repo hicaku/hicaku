@@ -59,6 +59,8 @@
 <br/>  
 
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=hicaku&show_icons=true&count_private=true&hide_border=true" align="left" />
-<br />
+## Github Stats 
+<div style="display: flex;">
+<img src="https://github-readme-stats.vercel.app/api?username=hicaku&theme=dark&show_icons=true&count_private=true&hide_border=true" align="left" />
+<img src="https://streak-stats.demolab.com?user=hicaku&theme=highcontrast&hide_border=true"/>
+</div>
