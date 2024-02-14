@@ -1,10 +1,7 @@
 ### <div>👋 Hi, I'm Hikmet. A frontend developer working since 2018</div>  
   
 
-- 💻 Working at GoArt Metaverse as a Frontend Developer since 2023 January.  
-  
-
-- ⏳ Currently learning React.js.  
+- 💻 Working at Fast Track Solutions as a Frontend Developer since 2024 February.  
   
 
 - 🧾 Previously worked as a fullstack developer with PHP.  
